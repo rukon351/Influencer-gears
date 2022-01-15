@@ -8,8 +8,6 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    /* margin-left: 120px;
-    margin-right: 120px; */
     background-color: #FFFFFF;;
 }
 .container{
@@ -33,7 +31,6 @@ nav{
 }
 .menu-bar{
     display: flex;
-    /* align-items: center; */
     list-style: none;
     margin: 20px;
 }
@@ -51,7 +48,6 @@ main section start */
 
 /* top section */
     .top-section{
-        /* display: flex; */
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
@@ -83,15 +79,11 @@ main section start */
        align-items: flex-end;
     }
     .right-side img{
-        /* width: 340px;
-        height: 314px;
-        margin-left: 160px; */
         width: 50%;
     }
 /* logo section */
 .logos{
     display: flex;
-    /* width: 1110px; */
     Height: 80px;
     align-items: center;
     justify-content: center;
@@ -118,8 +110,6 @@ main section start */
     grid-row-gap: 30px;
 }
 .item{
-    /* width: 329px; */
-    /* height: 476px; */
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     border-radius: 5px;
 }
